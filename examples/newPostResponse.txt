@@ -1,0 +1,19 @@
+201
+array(4) {
+    [
+        "title"
+    ]=>
+  string(7) "foOoOoO"
+  [
+        "body"
+    ]=>
+  string(10) "giveMeMore"
+  [
+        "userId"
+    ]=>
+  string(1) "4"
+  [
+        "id"
+    ]=>
+  int(101)
+}
